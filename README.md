@@ -42,7 +42,7 @@ The goal was simple: reach a standard **50 Hz** frequency using an old UPS Iron-
 > Hand-drawn schematics from initial planning phase.
 
 <p align="center">
-  <img src="./docs/schematic_sketch.jpg" width="600" alt="Hand-drawn H-Bridge schematic and design notes" />
+  <img src="./docs/d678d45d-39f6-41e2-8fdc-8d8f4c4050fe.jpg" width="600" alt="Hand-drawn H-Bridge schematic and design notes" />
   <br/>
   <em>Figure 1 — Original circuit design sketch (pencil on paper, the real engineering flavor 📝)</em>
 </p>
@@ -139,7 +139,7 @@ The relay operation produced a rapid, clean *"trekk... trekk..."* clicking sound
 
 <p align="center">
   <!-- Ganti path di bawah ini dengan foto alatmu yang sedang menyala -->
-  <img src="./docs/device_photo.jpg" width="600" alt="Device in operation" />
+  <img src="./docs/WhatsApp Video 2026-03-09 at 23.22.28 - frame at 0m11s.jpg" width="600" alt="Device in operation" />
   <br/>
   <em>Figure 2 — The inverter in operation, powering an LED bulb</em>
 </p>
