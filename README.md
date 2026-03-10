@@ -146,9 +146,8 @@ The relay operation produced a rapid, clean *"trekk... trekk..."* clicking sound
 
 ### 🎥 Video Documentation
 
-> [![Watch the Video](https://img.shields.io/badge/▶_Watch-Video_Dokumentasi-red?style=for-the-badge&logo=youtube)](https://youtube.com/your-link-here)
+> [![Watch the Video](https://img.shields.io/badge/▶_Watch-Video_Dokumentasi-red?style=for-the-badge&logo=youtube)]([https://youtube.com/your-link-here](https://youtube.com/shorts/hcQn-Tut7-g?feature=share))
 >
-> *(Ganti link di atas dengan URL video YouTube kamu)*
 
 ---
 
