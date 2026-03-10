@@ -176,8 +176,6 @@ This project proves that a **Mechanical H-Bridge Inverter is entirely feasible**
 | | |
 |:---|:---|
 | **Nama** | Fahri Azzam Mandriva |
-| **Kelas** | XI PPLG |
-| **Sekolah** | SMK Negeri 1 Purwokerto |
 | **Kategori** | Legacy / Experimental Project |
 
 ---
